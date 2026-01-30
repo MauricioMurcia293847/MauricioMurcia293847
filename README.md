@@ -50,8 +50,6 @@ Me interesa crear soluciones funcionales, bien estructuradas y con una interfaz 
 
 - 📧 **Correo:** murciamauricio921@gmail.com  
 - 📱 **Teléfono:** 656-339-2589  
-- 🌎 **GitHub:** https://github.com/MauricioMurcia293847  
-
 ---
 ### 📌 Nota
 Este perfil representa mi proceso de aprendizaje y crecimiento como desarrollador de software, enfocado en la mejora continua y la aplicación práctica de los conocimientos adquiridos.
