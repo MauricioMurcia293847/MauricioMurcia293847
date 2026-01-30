@@ -1,37 +1,36 @@
-<h2 align="left">MauricioMurcia293847</h2>
+Sobre mí
 
-###
+Mi nombre es Mauricio Murcia, soy estudiante de Desarrollo de Software y me encuentro en formación en el desarrollo de aplicaciones web y móviles, aplicando conocimientos adquiridos en proyectos académicos y prácticos.
 
-<h4 align="left">Estudiante de Desarrollo de Software</h4>
+Me interesa crear soluciones funcionales, bien estructuradas y con una interfaz clara para el usuario. Disfruto convertir proyectos universitarios en aplicaciones reales que puedan resolver necesidades dentro del entorno educativo.
 
-###
+Actualmente aprendiendo y trabajando con
+<p align="left"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" height="30"/> </p>
 
-<h6 align="left">Estudiante de Desarrollo de Software enfocado en la creación de aplicaciones web y móviles utilizando tecnologías actuales.</h6>
+🎯 Objetivo profesional
 
-###
+Adquirir experiencia en el desarrollo de software a través de proyectos académicos y reales
 
-<p align="left">🎯 Objetivo: Convertirme en un desarrollador de software profesional y participar en proyectos reales.<br><br>🎲 Dato curioso: Me gusta convertir proyectos universitarios en aplicaciones funcionales.</p>
+Fortalecer mis habilidades en aplicaciones web y móviles
 
-###
+Continuar aprendiendo nuevas tecnologías y buenas prácticas de programación
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-</div>
+Sobre mí como desarrollador
+
+💡 Me gusta aprender paso a paso y entender la lógica detrás del código
+
+🤝 Dispuesto a colaborar y aprender en equipo
+
+📘 Interesado en mejorar continuamente mis proyectos
+
+Contacto
+
+📧 Correo: murciamauricio@gmail.com
+📞 Telefono: 656-339-2589
+
+Estadísticas de GitHub
+<img title="Estadísticas de GitHub" align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=MauricioMurcia293847&show_icons=true&hide=issues&count_private=true"/> <br clear="left"/>
+
+Nota
+
+Este perfil representa mi proceso de aprendizaje y crecimiento como desarrollador de software, enfocado en la mejora continua y la aplicación práctica de los conocimientos adquiridos.
