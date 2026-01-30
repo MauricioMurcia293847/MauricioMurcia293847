@@ -9,7 +9,7 @@
 
 Mi nombre es **Mauricio Murcia**, soy estudiante de **Desarrollo de Software** y me encuentro en formación en el desarrollo de **aplicaciones web y móviles**, aplicando conocimientos adquiridos en proyectos académicos y prácticos.
 
-Me interesa crear soluciones funcionales, bien estructuradas y con una interfaz clara para el usuario. Disfruto convertir proyectos universitarios en aplicaciones reales que puedan resolver necesidades dentro del entorno educativo.
+Me interesa crear soluciones funcionales, bien estructuradas y con una interfaz clara para el usuario. Disfruto convertir proyectos en aplicaciones reales que puedan resolver necesidades dentro del entorno.
 
 ---
 
