@@ -1,7 +1,7 @@
 # ¡Hola!
 
 ## 👨‍💻 Mauricio Murcia  
-**Estudiante de Desarrollo de Software | Aplicaciones Web y Móviles**
+**Estudiante de Desarrollo de Software**
 
 ---
 
