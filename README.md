@@ -53,14 +53,5 @@ Me interesa crear soluciones funcionales, bien estructuradas y con una interfaz 
 - 🌎 **GitHub:** https://github.com/MauricioMurcia293847  
 
 ---
-
-## 📊 Estadísticas de GitHub
-
-<img title="Estadísticas de GitHub" align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=MauricioMurcia293847&show_icons=true&hide=issues&count_private=true"/>
-
-<br clear="left"/>
-
----
-
 ### 📌 Nota
 Este perfil representa mi proceso de aprendizaje y crecimiento como desarrollador de software, enfocado en la mejora continua y la aplicación práctica de los conocimientos adquiridos.
