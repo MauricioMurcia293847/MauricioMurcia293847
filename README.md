@@ -36,8 +36,5 @@
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
 </div>
 
-###
 
 <img src="https://raw.githubusercontent.com/MauricioMurcia293847/MauricioMurcia293847/output/snake.svg" alt="Snake animation" />
-
-###
