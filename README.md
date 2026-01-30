@@ -33,7 +33,7 @@ Me interesa crear soluciones funcionales, bien estructuradas y con una interfaz 
 ## 🎯 Objetivo profesional
 
 - Adquirir experiencia en el desarrollo de software a través de proyectos académicos y reales  
-- Fortalecer mis habilidades en aplicaciones web y móviles  
+- Fortalecer mis habilidades en el ambito de desarrollo.  
 - Continuar aprendiendo nuevas tecnologías y buenas prácticas de programación  
 
 ---
